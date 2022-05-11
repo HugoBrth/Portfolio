@@ -1,0 +1,16 @@
+*, ::before, ::after {margin: 0;padding: 0;box-sizing: border-box;}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #EEE5E9;
+    position: relative;
+}
+p {
+    color: #2B303A;
+    position: absolute;
+    font-size: 26px;
+    left: 10vw;
+    top: 23vh;
+    font-family: 'Poppins', sans-serif;
+}
